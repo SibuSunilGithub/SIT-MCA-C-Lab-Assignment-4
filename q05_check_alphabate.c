@@ -1,4 +1,4 @@
-//  Check whether a character is alphabet or not.
+//  Check whether a character is an alphabet or not.
 
 #include <stdio.h>
 int main()
